@@ -1,0 +1,93 @@
+{
+	"ImportPath": "github.com/sogko/slumber",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v78",
+	"Packages": [
+		"github.com/sogko/slumber"
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/negroni",
+			"Comment": "v0.2.0-100-g61dbefc",
+			"Rev": "61dbefc515b4dede6eb2de7df1e54d49edce892d"
+		},
+		{
+			"ImportPath": "github.com/dgrijalva/jwt-go",
+			"Comment": "v2.7.0",
+			"Rev": "268038b363c7a8d7306b8e35bf77a1fde4b0c402"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Comment": "v1.1-7-g08b5f42",
+			"Rev": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.3.0",
+			"Rev": "392c28fe23e1c45ddba891b0320b3b5df220beea"
+		},
+		{
+			"ImportPath": "github.com/sogko/slumber-sessions",
+			"Rev": "2a8ebc5dbd6561abab3c9d52ff5f6f0da70c684f"
+		},
+		{
+			"ImportPath": "github.com/sogko/slumber-sessions/domain",
+			"Rev": "2a8ebc5dbd6561abab3c9d52ff5f6f0da70c684f"
+		},
+		{
+			"ImportPath": "github.com/sogko/slumber-users",
+			"Rev": "8b6195107a11c8e3485c8bb5fe910847df485215"
+		},
+		{
+			"ImportPath": "github.com/sogko/slumber-users/domain",
+			"Rev": "8b6195107a11c8e3485c8bb5fe910847df485215"
+		},
+		{
+			"ImportPath": "github.com/twinj/uuid",
+			"Comment": "0.10.0",
+			"Rev": "89173bcdda19db0eb88aef1e1cb1cb2505561d31"
+		},
+		{
+			"ImportPath": "github.com/unrolled/render",
+			"Rev": "50716a0a853771bb36bfce61a45cdefdb98c2e6e"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/bcrypt",
+			"Rev": "854ae91cdcbf914b499b1d7641d07859f3653481"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/blowfish",
+			"Rev": "854ae91cdcbf914b499b1d7641d07859f3653481"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/bson",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/json",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/sasl",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/scram",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/tylerb/graceful.v1",
+			"Comment": "v1.2.14",
+			"Rev": "0e9129e9c6d47da90dc0c188b26bd7bb1dab53cd"
+		}
+	]
+}
